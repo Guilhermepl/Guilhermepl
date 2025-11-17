@@ -1,38 +1,24 @@
 ## Hi there 👋
 
-I'm **Guilherme**, a **Computational Mathematician** 💻 with a passion for **AI** 🤖 and **Full Stack Development** 🌐. I specialize in creating innovative software solutions and love diving into new technologies to enhance my skills.
+I'm Guilherme, a **Back-end Python Developer** with a background in Computational Mathematics and solid experience building **production-ready APIs and web services**.
 
-### 🔭 I’m currently working on...
-- Building full stack applications with Python, Django, and React.
-- Exploring advanced AI techniques and cloud solutions to solve complex problems.
-- Contributing to open source projects and improving my GitHub profile.
+### What I work with
 
-### 🌱 I’m currently learning...
-- New advancements in machine learning and natural language processing.
-- The latest features and best practices in cloud computing and serverless architectures.
+- **Back-end (main focus)**: Python, Django, Flask, FastAPI, REST APIs
+- **Data & async**: SQL (MySQL/PostgreSQL), Celery, RabbitMQ, Redis
+- **Cloud & DevOps**: Docker, AWS (ECS, Lambda, RDS, S3, SQS, CloudFront), Terraform, CI/CD
+- **Front-end (supporting)**: React, Vue.js
 
-### 👯 I’m looking to collaborate on...
-- Projects that involve AI and data science.
-- Open source contributions and community-driven development.
-- Innovative full stack applications and cloud solutions.
+In my daily work I build and maintain APIs, background workers, and integrations in Python, deploy them to AWS using containers and pipelines, and keep an eye on performance and reliability.
 
-### 🤔 I’m looking for help with...
-- Enhancing my knowledge and skills in data science and AI.
-- Exploring new frameworks and libraries in the data science ecosystem.
-- Optimizing cloud architectures and serverless applications.
+### What you’ll find here (soon / em breve)
 
-### 💬 Ask me about...
-- Python, Django, Flask, FastAPI, and other web technologies.
-- Cloud services on AWS, Docker, and serverless architectures.
-- Best practices for full stack development and agile methodologies.
+- **Back-end projects in Python** (Django / FastAPI / Flask) with tests and clean architecture  
+- **Async processing examples** with Celery + RabbitMQ  
+- **LLM / LangChain experiments** for real-world use cases  
+- Some lab projects from bootcamps (DIO, AzureAI, etc.)
 
-### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
-- [Email](mailto:seu-email@example.com)
-- [GitHub](https://github.com/seu-username)
+### How to reach me
 
-### 😄 Pronouns:
-- He/Him
-
-Feel free to connect or reach out if you want to collaborate or just chat about technology!
-
+- LinkedIn: [linkedin.com/in/guilherme-lima1602](https://www.linkedin.com/in/guilherme-lima1602/)
+- Email: limapeguilherme@gmail.com
